@@ -1,0 +1,11 @@
+.input input{
+    outline: none !important;
+    height: 30px;
+    width: 350px;
+    margin-top: 15px;
+    background-color: #fafafa;
+    border-bottom-color: #c7c7c7;
+    border-left: none;
+    border-right: none;
+    border-top: none 
+}

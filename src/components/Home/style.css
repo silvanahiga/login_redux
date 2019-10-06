@@ -1,0 +1,25 @@
+.info-card{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info-wrap{
+  
+    width: 100%;
+   
+    
+}
+.wrap-log{
+    margin-top: 100px;
+    font-size: 40px;
+    border: 1px solid black;
+    width: 50%;
+    height: 400px;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center
+
+}
